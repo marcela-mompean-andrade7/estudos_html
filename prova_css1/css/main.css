@@ -61,3 +61,8 @@ h4{
     background-color: #862175;
     color: yellowgreen;
 }
+
+.menu ul ul li{
+    float: none;
+    border-bottom: solid 1px #ccc;
+}
